@@ -1,5 +1,5 @@
-### 👋 Hello! I'm HwaHyang
-I'm attending the Department of Broadcast Media at Gyeonggi Media Broadcasting Science High School. Let's make a better tomorrow by coding together!
+### 👋 Hello!
+I'm a cat which is majoring in Department of Broadcast Media at Gyeonggi Media Broadcasting Science High School. Let's make a better tomorrow by coding together!
 
 ### 📖 Tech Stack
 - Python
@@ -7,7 +7,7 @@ I'm attending the Department of Broadcast Media at Gyeonggi Media Broadcasting S
 - PHP
 
 ### 🏫 Education
-- Gyeonggi Media Broadcasting Science High School (Department of Broadcast Media || 2020.03 ~ current)
+- Department of Broadcast Media at Gyeonggi Media Broadcasting Science High School (2020.03 ~ current)
 
 ### 🔥 Experience
 - Develable (2017.07 ~ current) [@Develable](https://github.com/Develable)

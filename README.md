@@ -1,16 +1,20 @@
-### Hi there 👋
+### 👋 Hello! I'm HwaHyang
+I'm attending the Department of Broadcast Media at Gyeonggi Media Broadcasting Science High School. Let's make a better tomorrow by coding together!
 
-<!--
-**hwahyang1/hwahyang1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📖 Tech Stack
+- Python
+- Javascript(Typescript) & Node.js
+- PHP
 
-Here are some ideas to get you started:
+### 🏫 Education
+- Gyeonggi Media Broadcasting Science High School (Department of Broadcast Media || 2020.03 ~ current)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 Experience
+- Develable (2017.07 ~ current) [@Develable](https://github.com/Develable)
+- Adobe Discord RPC (2020.03 ~ current) [@Adobe-Discord-RPC](https://github.com/Adobe-Discord-RPC)
+
+### 💬 Contact
+- Email : [me@hwahyang.space](mailto:me@hwahyang.space)
+- Business : [hwahyang@develable.xyz](mailto:hwahyang@develable.xyz)
+- Facebook : [Channel HwaHyang](https://www.facebook.com/hwahyang1)
+- Twitter : [@\_hwahyang\_](https://twitter.com/hwahyang1)

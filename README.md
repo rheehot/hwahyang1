@@ -15,7 +15,7 @@ I'm a cat which is majoring in Department of Broadcast Media at Gyeonggi Media B
 
 ### 💬 Contact
 - Homepage : [hwahyang.space](https://hwahyang.space) **(Korean Only || Site Renewal Scheduled)**
-- Email : [me@hwahyang.space](mailto:me@hwahyang.space)
-- Business : [hwahyang@develable.xyz](mailto:hwahyang@develable.xyz)
+- Email : [me@hwahyang.space](mailto:me@hwahyang.space), [hwahyang1223@gmail.com](mailto:hwahyang1223@gmail.com)
+- Business (Develable) : [hwahyang@develable.xyz](mailto:hwahyang@develable.xyz)
 - Facebook : [Channel HwaHyang](https://www.facebook.com/hwahyang1)
 - Twitter : [@\_hwahyang\_](https://twitter.com/hwahyang1)
